@@ -2,4 +2,28 @@
     width: 300px;
     height: 290;
 }
-
+body{
+    background-color: lightcoral;
+    text-align: center; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+b{
+    color: rgb(97, 212, 238);
+}
+.mobilenet{
+    font-size: 35px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div{
+    background: rgb(65, 99, 96);
+    margin: 50px;
+    border-radius: 20;
+    font-size: 30px;
+    color: white;
+}
+h5{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
